@@ -1,22 +1,22 @@
-# Project4
+# Connect-Platform-Raider4
 
 Connect Platform - Project 2
 
-\## Team Name/Number: Raider4
+\## Team Name: Raider4
 
 \## Team Members
 
 \- Adam Broussard - 0-oAdam
 
-\- \[Name] - \[GitHub Username]
+\- Roy Flores - \[GitHub Username]
 
-\- \[Name] - \[GitHub Username]
+\- Naeem Islam - \[GitHub Username]
 
-\- \[Name] - \[GitHub Username]
+\- Aiden Romero - \[GitHub Username]
 
 \## Project Description
 
-&nbsp;We will be creating a one-stop hiring service to help fix issues students and companies face with the traditional hiring process.
+ We will be creating a one-stop hiring service to help fix issues students and companies face with the traditional hiring process.
 
 \## Pages Implemented
 
@@ -38,39 +38,37 @@ Connect Platform - Project 2
 
 \- GitHub Pages
 
-\## Individual Contributions Sample
+
 
 \### Adam Broussard
 
-\- Implemented landing page HTML structure
+\- 
 
-\- Created responsive navigation bar
+\- 
 
-\- \[List other specific contributions]
+\- 
 
-\### \[Team Member 2 Name]
+\### Roy Flores
 
-\- Designed and implemented color scheme
+\- 
 
-\- Created footer component
+\- 
 
-\- \[List other specific contributions]
+\-
 
-\### \[Team Member 3 Name]
+\### Naeem Islam
 
-\- Implemented hero section styling
+\- 
 
-\- Made site responsive for mobile devices
+\-
 
-\- \[List other specific contributions]
+\-
 
-\### \[Team Member 4 Name]
+\### Aiden Romero
 
-\- Implemented hero section styling
+\- 
 
-\- Made site responsive for mobile devices
+\-
 
-\- \[List other specific contributions]
-
-
+\-
 
